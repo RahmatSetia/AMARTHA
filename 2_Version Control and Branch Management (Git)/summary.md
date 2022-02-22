@@ -9,6 +9,12 @@
 - Workflow Collaboration
 
 ## Resume
+
+Dalam materi ini, mempelajari : 
+1. Versioning
+2. Version Control System
+3. Git
+4. Git Repository
 ### Versioning
 - adalah melakukan pengaturan versi atau melakukan pengechekan perubahan dari setiap code yang kita miliki.
 - untuk apa si perubahan itu. untuk me-ngetrack (melacak) apa saja yang terjadi perubahan di code kita. kira kira apa saja si kesahan kesalaha di project kita, apa saja si yang di ubah di project kita, dan juga bisa mengetahui siapa saja yang mengubah code kita. dengan kata lain bisa di gunakan untuk me-review
@@ -25,7 +31,11 @@ adalah salah satu version control system popupler yang digunakan para developer 
 Satu paket (satu commit) bisa dilakukan pelacakan terhadap setiap file.
 Praktek Membuat Repository
 
+### Stash
+Penyimpanan sementara
+
 ## Task
+### file java
 [main.java](https://github.com/RahmatSetia/AMARTHA/blob/master/src/main/java/com/alta/training/main.java).
 
 output :
