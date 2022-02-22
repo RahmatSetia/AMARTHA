@@ -36,7 +36,7 @@ Penyimpanan sementara
 
 ## Task
 ### file java
-[main.java](https://github.com/RahmatSetia/AMARTHA/blob/master/src/main/java/com/alta/training/main.java).
+[main.java](https://github.com/RahmatSetia/AMARTHA/blob/master/2_Version%20Control%20and%20Branch%20Management/praktikum/main.java).
 
 output :
 ![This is an image](https://github.com/RahmatSetia/AMARTHA/blob/master/2_Version%20Control%20and%20Branch%20Management/Screenshot%20(39).png)
