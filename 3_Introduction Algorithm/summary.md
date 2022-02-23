@@ -66,7 +66,7 @@ proses di atas menerapkan proses sequential.
 ## Task
 
 ### flowchart prima
-![This is an image](https://github.com/RahmatSetia/AMARTHA/blob/master/Screenshot%20(39).png)
+![This is an image](https://github.com/RahmatSetia/AMARTHA/blob/master/3_Introduction%20Algorithm/screenshots/Flowchart%20Prima.png)
 
 ### Flowchart lampu dan tombol
-![This is an image](https://github.com/RahmatSetia/AMARTHA/blob/master/Screenshot%20(39).png)
+![This is an image](https://github.com/RahmatSetia/AMARTHA/blob/master/3_Introduction%20Algorithm/screenshots/kondisi%20lampu.png)
