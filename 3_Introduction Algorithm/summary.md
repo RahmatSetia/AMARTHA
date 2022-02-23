@@ -1,4 +1,4 @@
-# Introduction Algorithm
+# 3 Introduction Algorithm
 ## Resume
 Dalam materi ini, mempelajari :
 1. Apa itu Algoritma 
