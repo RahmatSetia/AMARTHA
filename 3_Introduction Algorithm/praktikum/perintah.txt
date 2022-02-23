@@ -1,3 +1,7 @@
 # (3)Introduction Algorithm
 membuat flowchart bilangan prima
+<<<<<<< HEAD
 membuat flowchart problem lampu dan tombol
+=======
+membuat flowchart problem lampu dan tombol
+>>>>>>> a5364cbb49084b2c708910ede84ce1577fe2f97f
