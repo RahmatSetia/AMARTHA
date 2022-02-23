@@ -1,0 +1,3 @@
+# (3)Introduction Algorithm
+membuat flowchart bilangan prima
+membuat flowchart problem lampu dan tombol
