@@ -97,7 +97,7 @@ Memeberi catatan tambahan pada bafian code tertentu. komentar akan diabaikan. da
 ![This is an image](https://github.com/RahmatSetia/AMARTHA/blob/master/4_Basic%20Programming/screenshots/Screenshot_54.png)
 ## Task 4
 ### Bilangan Prima
-![This is an image](https://github.com/RahmatSetia/AMARTHA/blob/master/4_Basic%20Programming/screenshots/Screenshot_54.png)
+![This is an image](https://github.com/RahmatSetia/AMARTHA/blob/master/4_Basic%20Programming/screenshots/Screenshot_55.png)
 
 
 
