@@ -1,11 +1,7 @@
-# 3 Introduction Algorithm
+# (3) Introduction Algorithm
 ## Resume
 Dalam materi ini, mempelajari :
-<<<<<<< HEAD
 1. Apa itu Algoritma
-=======
-1. Apa itu Algoritma 
->>>>>>> a5364cbb49084b2c708910ede84ce1577fe2f97f
 2. Karakteristik Algoritma
 3. Dasar Algorithma
 4. Pseudocode
@@ -24,19 +20,16 @@ Dalam materi ini, mempelajari :
 
 ### Dasar Dasar dari Algoritma
 1. Sequential
-<<<<<<< HEAD
    Urutan dalam menyusun langkah langkah untuk menyelesaikan sebuah masalah.
 2. Branching
    Digunakan untuk menentukan sebuah alur atau flow dari program.
 3. Looping
    Konsep untuk melakukan sebuah aksi secara berulang sampai dengan kondisi tertentu terpenuhi.
-=======
 Urutan dalam menyusun langkah langkah untuk menyelesaikan sebuah masalah.
 2. Branching
 Digunakan untuk menentukan sebuah alur atau flow dari program.
 3. Looping
 Konsep untuk melakukan sebuah aksi secara berulang sampai dengan kondisi tertentu terpenuhi.
->>>>>>> a5364cbb49084b2c708910ede84ce1577fe2f97f
 
 ### PseudoCode
 Adalah deskripsi bahasa sederhana yang kita gunakan untuk menuangkan sebuah ide algoritma itu sendiri.
@@ -45,11 +38,7 @@ Program menghitung luas segitiga
 1. pertama input Alas dan TInggi dari segitiga itu sendiri
 2. Menghitung Luas segitiga dengan rumus Luas = (Alah x tinggi) / 2.
 3. Tampilkan atau print Luas.
-<<<<<<< HEAD
    Sekilas PseudoCode mirip dengan bahasa manusia, namun terapat beberapa jenis PseudoCode tergantung standar apa yang kita mau gunakan.
-=======
-Sekilas PseudoCode mirip dengan bahasa manusia, namun terapat beberapa jenis PseudoCode tergantung standar apa yang kita mau gunakan.
->>>>>>> a5364cbb49084b2c708910ede84ce1577fe2f97f
 
 ### FlowChart
 adalah suatu bagan dengan simbol tertentu yang menggambarkan urutan dan hubungan antar proses secara mendetail.
@@ -67,11 +56,7 @@ biasa nya digunakan untuk merepresentasikan sebuah proses algoritma dalam menyel
 3. persegi panjang untuk melakukan proses perhitungan.
 4. jajargenjang lagi untuk menampilkan hasil dari perhitungan.
 5. Kapsul lagi untuk merepresentasikan program telah selesai.
-<<<<<<< HEAD
    proses di atas menerapkan proses sequential.
-=======
-proses di atas menerapkan proses sequential.
->>>>>>> a5364cbb49084b2c708910ede84ce1577fe2f97f
 
 ### Membahas Sebuah Flowchart Mencetak Faktor bilangan
 1. simbol kapsul untuk memulai program.

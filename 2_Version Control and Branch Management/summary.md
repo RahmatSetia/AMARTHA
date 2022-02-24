@@ -1,4 +1,4 @@
-# Version Control and Branch Management (Git)
+# (2) Version Control and Branch Management (Git)
 - Git Install
 - Setting Up (Git init, Clone, Config)
 - Saving Changes (Git status, Add, Commit, Diff, Stash, Ignore)

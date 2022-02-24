@@ -1,6 +1,0 @@
-# (2)Version Control System
-Git init
-Git add
-Git commit
-Git Push
-Git Diff
