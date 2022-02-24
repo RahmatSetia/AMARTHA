@@ -88,4 +88,4 @@ Memeberi catatan tambahan pada bafian code tertentu. komentar akan diabaikan. da
 
 ## Task
 ### Vokal Konsonan
-![This is an image](D:\Projects\alterra_rahmat_setiawan\4_Basic Programming\screenshots\Screenshot_52.png)
+![This is an image](https://github.com/RahmatSetia/AMARTHA/blob/master/4_Basic%20Programming/screenshots/Screenshot_52.png)
