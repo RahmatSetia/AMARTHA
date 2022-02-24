@@ -10,7 +10,8 @@ public class main {
 //        bilanganPrima();
 //        palindrome();
 //        exponentation();
-        piramida();
+//        piramida();
+        tabelPerkalian();
     }
 
     public static void vokalKonsonan(){
@@ -110,6 +111,15 @@ public class main {
             while (k != 1 * i) {
                 System.out.print("* ");
                 ++k;
+            }
+            System.out.println();
+        }
+    }
+    private static void tabelPerkalian() {
+        int bill = 20;
+        for (int i = 1; i <= bill; ++i) {
+            for (int j = 1; j <= bill; ++j) {
+                System.out.print(" " + j*i);
             }
             System.out.println();
         }

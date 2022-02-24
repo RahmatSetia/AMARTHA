@@ -106,6 +106,9 @@ Memeberi catatan tambahan pada bafian code tertentu. komentar akan diabaikan. da
 ## Task 7
 ### piramida *
 ![This is an image](https://github.com/RahmatSetia/AMARTHA/blob/master/4_Basic%20Programming/screenshots/Screenshot_58.png)
+## Task 8
+### tabel perkalian
+![This is an image](https://github.com/RahmatSetia/AMARTHA/blob/master/4_Basic%20Programming/screenshots/Screenshot_59.png)
 
 
 
