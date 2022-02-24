@@ -1,0 +1,11 @@
+mempelajari :
+- tipe data
+- variable
+- tipe data primitif dan non-primitif
+- array
+- Operator
+- Branching
+- Looping
+- Input Output
+- Method
+- Komentar pada code java
