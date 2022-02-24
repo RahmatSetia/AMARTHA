@@ -95,5 +95,11 @@ Memeberi catatan tambahan pada bafian code tertentu. komentar akan diabaikan. da
 ## Task 3
 ### Faktor Bilangan
 ![This is an image](https://github.com/RahmatSetia/AMARTHA/blob/master/4_Basic%20Programming/screenshots/Screenshot_54.png)
+## Task 4
+### Bilangan Prima
+![This is an image](https://github.com/RahmatSetia/AMARTHA/blob/master/4_Basic%20Programming/screenshots/Screenshot_54.png)
+
+
+
 
 

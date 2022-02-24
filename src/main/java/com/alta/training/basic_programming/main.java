@@ -4,7 +4,8 @@ public class main {
     public static void main(String[] args) {
 //        vokalKonsonan();
 //        x_o();
-        faktorBilangan();
+//        faktorBilangan();
+        bilanganPrima();
     }
 
     public static void vokalKonsonan(){
@@ -59,5 +60,19 @@ public class main {
             if (input % i == 0)
                 System.out.println(i);
         }
+    }
+    private static void bilanganPrima() {
+        int bill = 13;
+        int pembagi = 0;
+
+        for (int i = 1; i <= bill; i++){
+            if (bill % i == 0)
+                pembagi++;
+
+        }
+        if (pembagi == 2)
+            System.out.println(bill +" = Bilangan Prima");
+        else
+            System.out.println(bill +" = Bukan bilangan Prima");
     }
 }
