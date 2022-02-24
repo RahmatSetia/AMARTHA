@@ -1,5 +1,7 @@
 package com.alta.training.basic_programming;
 
+import com.sun.source.tree.BinaryTree;
+
 public class main {
     public static void main(String[] args) {
 //        vokalKonsonan();
@@ -7,7 +9,8 @@ public class main {
 //        faktorBilangan();
 //        bilanganPrima();
 //        palindrome();
-        exponentation();
+//        exponentation();
+        piramida();
     }
 
     public static void vokalKonsonan(){
@@ -96,5 +99,19 @@ public class main {
 
         System.out.println(x + " pangkat " + n + " = "+ (int)Math.pow(x,n));
 
+    }
+    public static void piramida(){
+        int bill = 5, k = 0;
+        for (int i = 1; i <= bill; ++i) {
+            k = 0;
+            for (int spasi = 1; spasi <= bill - i; ++spasi) {
+                System.out.print(" ");
+            }
+            while (k != 1 * i) {
+                System.out.print("* ");
+                ++k;
+            }
+            System.out.println();
+        }
     }
 }
