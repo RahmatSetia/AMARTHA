@@ -5,7 +5,8 @@ public class main {
 //        vokalKonsonan();
 //        x_o();
 //        faktorBilangan();
-        bilanganPrima();
+//        bilanganPrima();
+        palindrome();
     }
 
     public static void vokalKonsonan(){
@@ -61,8 +62,8 @@ public class main {
                 System.out.println(i);
         }
     }
-    private static void bilanganPrima() {
-        int bill = 13;
+    public static void bilanganPrima() {
+        int bill = 1;
         int pembagi = 0;
 
         for (int i = 1; i <= bill; i++){
@@ -74,5 +75,18 @@ public class main {
             System.out.println(bill +" = Bilangan Prima");
         else
             System.out.println(bill +" = Bukan bilangan Prima");
+    }
+    public static void palindrome(){
+        String kata = "katak";
+
+        String poli = "";
+        for(int i = kata.length()-1; i >= 0; i--){
+            char c = kata.charAt(i);
+            poli = poli + String.valueOf(c);
+        }
+        if (kata.equals(poli))
+            System.out.println(kata+" adalah Palindrome");
+        else
+            System.out.println(kata+" bukan Palindrome");
     }
 }

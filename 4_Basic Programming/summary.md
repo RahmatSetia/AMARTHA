@@ -45,7 +45,6 @@ Perbedaanya. Tipe data primitif hanya menunjukan data itu memiliki tipe tertentu
 ### Array
 Adalah sebuah data yang dapat menyimpan banyak data lainnya. setiap data disebut elemen. setiap elemen diberi tanda indeks. indeks di java diawali dair "0". Contoh
 - char[] nama = new char[] {'a','w','a','n','g'}; atau
-- char[] nama = new char[5];
 - nama[0] = 'a';
 - nama[1] = 'w';
 - nama[2] = 'a';
@@ -98,6 +97,9 @@ Memeberi catatan tambahan pada bafian code tertentu. komentar akan diabaikan. da
 ## Task 4
 ### Bilangan Prima
 ![This is an image](https://github.com/RahmatSetia/AMARTHA/blob/master/4_Basic%20Programming/screenshots/Screenshot_55.png)
+## Task 5
+### Kata Palindrome
+![This is an image](https://github.com/RahmatSetia/AMARTHA/blob/master/4_Basic%20Programming/screenshots/Screenshot_56.png)
 
 
 
