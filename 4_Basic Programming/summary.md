@@ -86,6 +86,9 @@ Adalah bagian dari code yang didalamnya terdapat code code program yang dapat di
 ### Komentar
 Memeberi catatan tambahan pada bafian code tertentu. komentar akan diabaikan. dapat dimanfaatkan agar suatu kode tidak dijalankan. (/* bla bla */, atau //)
 
-## Task
+## Task 1
 ### Vokal Konsonan
 ![This is an image](https://github.com/RahmatSetia/AMARTHA/blob/master/4_Basic%20Programming/screenshots/Screenshot_52.png)
+## Task 2
+### x dan o
+![This is an image](https://github.com/RahmatSetia/AMARTHA/blob/master/4_Basic%20Programming/screenshots/Screenshot_53.png)
