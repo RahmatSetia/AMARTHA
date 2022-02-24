@@ -100,7 +100,9 @@ Memeberi catatan tambahan pada bafian code tertentu. komentar akan diabaikan. da
 ## Task 5
 ### Kata Palindrome
 ![This is an image](https://github.com/RahmatSetia/AMARTHA/blob/master/4_Basic%20Programming/screenshots/Screenshot_56.png)
-
+## Task 6
+### Exponentation
+![This is an image](https://github.com/RahmatSetia/AMARTHA/blob/master/4_Basic%20Programming/screenshots/Screenshot_57.png)
 
 
 

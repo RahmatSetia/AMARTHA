@@ -6,7 +6,8 @@ public class main {
 //        x_o();
 //        faktorBilangan();
 //        bilanganPrima();
-        palindrome();
+//        palindrome();
+        exponentation();
     }
 
     public static void vokalKonsonan(){
@@ -88,5 +89,12 @@ public class main {
             System.out.println(kata+" adalah Palindrome");
         else
             System.out.println(kata+" bukan Palindrome");
+    }
+    public static void exponentation(){
+        int x = 3;
+        int n = 2;
+
+        System.out.println(x + " pangkat " + n + " = "+ (int)Math.pow(x,n));
+
     }
 }
