@@ -1,16 +1,21 @@
 package com.alta.training.basic_programming;
 
-import com.sun.source.tree.BinaryTree;
-
 public class main {
     public static void main(String[] args) {
-//        vokalKonsonan();
-//        x_o();
-//        faktorBilangan();
-//        bilanganPrima();
-//        palindrome();
-//        exponentation();
-//        piramida();
+        vokalKonsonan();
+        System.out.println("=========================================pemisah=============================================");
+        x_o();
+        System.out.println("=========================================pemisah=============================================");
+        faktorBilangan();
+        System.out.println("=========================================pemisah=============================================");
+        bilanganPrima();
+        System.out.println("=========================================pemisah=============================================");
+        palindrome();
+        System.out.println("=========================================pemisah=============================================");
+        exponentation();
+        System.out.println("=========================================pemisah=============================================");
+        piramida();
+        System.out.println("=========================================pemisah=============================================");
         tabelPerkalian();
     }
 
