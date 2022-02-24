@@ -92,3 +92,8 @@ Memeberi catatan tambahan pada bafian code tertentu. komentar akan diabaikan. da
 ## Task 2
 ### x dan o
 ![This is an image](https://github.com/RahmatSetia/AMARTHA/blob/master/4_Basic%20Programming/screenshots/Screenshot_53.png)
+## Task 3
+### Faktor Bilangan
+![This is an image](https://github.com/RahmatSetia/AMARTHA/blob/master/4_Basic%20Programming/screenshots/Screenshot_54.png)
+
+

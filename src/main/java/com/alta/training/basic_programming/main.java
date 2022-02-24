@@ -3,7 +3,8 @@ package com.alta.training.basic_programming;
 public class main {
     public static void main(String[] args) {
 //        vokalKonsonan();
-        x_o();
+//        x_o();
+        faktorBilangan();
     }
 
     public static void vokalKonsonan(){
@@ -49,5 +50,14 @@ public class main {
             System.out.println("True");
         else
             System.out.println("False");
+    }
+
+    public static void faktorBilangan() {
+        int input = 20;
+
+        for (int i = 1; i <= input; i++){
+            if (input % i == 0)
+                System.out.println(i);
+        }
     }
 }
