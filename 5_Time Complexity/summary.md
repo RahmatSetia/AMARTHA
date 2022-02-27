@@ -1,4 +1,4 @@
-(5) Time Complexity
+# (5) Time Complexity
 ## Resume
 Dalam materi ini, mempelajari :
 1. Complexity
@@ -20,6 +20,6 @@ Jika n kurang dari 1_000_000 kita bisa menggunakan linear time atau logaritmic t
 #### Screenshots
 ![This is an image](https://github.com/RahmatSetia/AMARTHA/blob/master/5_Time%20Complexity/screenshots/Screenshot_63.png)
 ### Bilangan Berpangkat
-[Bilangan Prima.java](https://github.com/RahmatSetia/AMARTHA/blob/master/src/main/java/com/alta/training/time_complexity/fastExponentation.java)
+[Bilangan Berpangkat.java](https://github.com/RahmatSetia/AMARTHA/blob/master/src/main/java/com/alta/training/time_complexity/fastExponentation.java)
 #### Screenshot
 ![This is an image](https://github.com/RahmatSetia/AMARTHA/blob/master/5_Time%20Complexity/screenshots/Screenshot_64.png)
