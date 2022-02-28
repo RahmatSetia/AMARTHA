@@ -10,7 +10,7 @@ perbedaan jenis time complexity.
 3. Logaritmic Time atau "O(log n)".
 4. Quadratic Time atau "O(n^2)".
 ### Time Limit
-Jika n kurang dari 1_000_000 kita bisa menggunakan linear time atau logaritmic time. Jika n kurang dari 10_00 kita bisa menggunakan quadratic time O(n^2). Jika n kuurang dari 500 kita bisa menggunakan time complexity O(n^3).
+Jika n kurang dari 1_000_000 kita bisa menggunakan linear time atau logaritmic time. Jika n kurang dari 10_000 kita bisa menggunakan quadratic time O(n^2). Jika n kuurang dari 500 kita bisa menggunakan time complexity O(n^3).
 
 
 ## Task time complexity

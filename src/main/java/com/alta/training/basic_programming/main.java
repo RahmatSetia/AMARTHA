@@ -12,11 +12,11 @@ public class main {
 //        System.out.println("=========================================pemisah=============================================");
 //        palindrome();
 //        System.out.println("=========================================pemisah=============================================");
-//        exponentation();
+        exponentation();
 //        System.out.println("=========================================pemisah=============================================");
-        piramida();
+//        piramida();
         System.out.println("=========================================pemisah=============================================");
-        tabelPerkalian();
+//        tabelPerkalian();
     }
 
     public static void vokalKonsonan(){
@@ -101,9 +101,13 @@ public class main {
     }
     public static void exponentation(){
         int x = 3;
-        int n = 2;
+        int pangkat = 2;
+        int hasil = 1;
 
-        System.out.println(x + " pangkat " + n + " = "+ (int)Math.pow(x,n));
+        for (int i = 1; i <= pangkat; i++){
+            hasil = hasil * x;
+        }
+        System.out.println(x + " pangkat " + pangkat + " = " + hasil);
 
     }
     public static void piramida(){
