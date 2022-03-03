@@ -1,6 +1,4 @@
-package com.alta.training.time_complexity;
-
-import java.util.Scanner;
+package com.alta.training.section_5_time_complexity;
 
 public class bilanganPrima {
     public static void main(String[] args) {
@@ -19,7 +17,7 @@ public class bilanganPrima {
             if (bill % i == 0){
                 hit++;
             }
-        }
+           }
         if (hit == 2){
             kesimpulan = true;
         }else

@@ -1,4 +1,4 @@
-package com.alta.training.time_complexity;
+package com.alta.training.section_5_time_complexity;
 
 public class fastExponentation {
     public static void main(String[] args) {
@@ -14,5 +14,10 @@ public class fastExponentation {
             hasil = hasil * input;
         }
         return hasil;
+        // hasil = 1 * 2 = 2
+        // hasil = 2 * 2 = 4
+        // hasil = 4 * 2 = 8
+        // hasil = 8 * 2 = 16
+        // hasil = 16 * 2 = 32
     }
 }

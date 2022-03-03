@@ -1,4 +1,4 @@
-package com.alta.training.basic_programming;
+package com.alta.training.section_4_basic_programming;
 
 public class main {
     public static void main(String[] args) {
