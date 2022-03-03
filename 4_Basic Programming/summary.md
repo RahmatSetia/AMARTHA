@@ -87,7 +87,7 @@ Memeberi catatan tambahan pada bafian code tertentu. komentar akan diabaikan. da
 
 ## Code
 ### link tugas praktek : 
-[main.java](https://github.com/RahmatSetia/AMARTHA/blob/master/src/main/java/com/alta/training/basic_programming/main.java).
+[main.java](https://github.com/RahmatSetia/AMARTHA/blob/master/src/main/java/com/alta/training/section_4_basic_programming/main.java).
 
 ## Task 1
 ### Vokal Konsonan
