@@ -1,0 +1,6 @@
+Mempelajari :
+- Time Copmlexity ketika suatu code program dijalankan khususnya pada java.
+- Jenis jenis time complexity
+- Contoh contoh dari berbagai jenis time complexity
+- membandingkan antara berbagai jenis time complexity dan keunggulan masing masing time complexity
+- mengerjakan task time complexity

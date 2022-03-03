@@ -1,7 +1,6 @@
 # (5) Time Complexity
 ## Resume
 Dalam materi ini, mempelajari :
-1 detik melakukan 100_000_000 proses.
 1. Complexity
 ### Time Complexity
 Adalah ukuran waktu berapa lama operasi operasi dapat dilakukan. misalnya operasi aritmatika ataupun operasi lainnya. Untuk mengukur time complexity kita bisa mengambil operasi yang paling dominan dari suatu kegiatan.
@@ -13,6 +12,7 @@ perbedaan jenis time complexity.
 ### Time Limit
 Jika n kurang dari 1_000_000 kita bisa menggunakan linear time atau logaritmic time. Jika n kurang dari 10_000 kita bisa menggunakan quadratic time O(n^2). Jika n kuurang dari 500 kita bisa menggunakan time complexity O(n^3).
 
+1 detik melakukan 100_000_000 proses.
 
 ## Task time complexity
 ### Bilangan Prima

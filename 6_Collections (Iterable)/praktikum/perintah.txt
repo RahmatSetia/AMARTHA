@@ -1,0 +1,8 @@
+Mempelajari :
+- Iterable
+- Iterator
+- Collection
+- List
+- Stack
+- Set
+- Mengerjakan task

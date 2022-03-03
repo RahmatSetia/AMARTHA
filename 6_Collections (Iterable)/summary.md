@@ -54,4 +54,34 @@ adalah sebuah Queue yang meiliki 2 ujung. (Last-In-First-Out)
 - Code problem 1
 [Array Merge.java](https://github.com/RahmatSetia/AMARTHA/blob/master/src/main/java/com/alta/training/section_6_collection/problem_1_arrayMerge.java)
 - Screenshots
-  ![This is an image](https://github.com/RahmatSetia/AMARTHA/blob/master/5_Time%20Complexity/screenshots/Screenshot_63.png)
+![This is an image](https://github.com/RahmatSetia/AMARTHA/blob/master/6_Collections%20(Iterable)/screenshots/Screenshot_80.png)
+
+### Problem 2
+- Code problem 2
+[Angka Muncul Sekali.java](https://github.com/RahmatSetia/AMARTHA/blob/master/src/main/java/com/alta/training/section_6_collection/problem_2_angkaMunculSekali.java)
+- Screenshots
+![This is an image](https://github.com/RahmatSetia/AMARTHA/blob/master/6_Collections%20(Iterable)/screenshots/Screenshot_81.png)
+
+### Problem 3
+- Code problem 3
+[Pair with target sum.java](https://github.com/RahmatSetia/AMARTHA/blob/master/src/main/java/com/alta/training/section_6_collection/problem_3_pairWithTargetSum.java)
+- Screenshots
+![This is an image](https://github.com/RahmatSetia/AMARTHA/blob/master/6_Collections%20(Iterable)/screenshots/Screenshot_82.png)
+
+### Problem 4
+- Code problem 4
+[Array Unique.java](https://github.com/RahmatSetia/AMARTHA/blob/master/src/main/java/com/alta/training/section_6_collection/problem_4_arrayUnique.java)
+- Screenshots
+![This is an image](https://github.com/RahmatSetia/AMARTHA/blob/master/6_Collections%20(Iterable)/screenshots/Screenshot_83.png)
+
+### Problem 5
+- Code problem 5
+[Remove Duplicate.java](https://github.com/RahmatSetia/AMARTHA/blob/master/src/main/java/com/alta/training/section_6_collection/problem_5_removeDuplicates.java)
+- Screenshots
+![This is an image](https://github.com/RahmatSetia/AMARTHA/blob/master/6_Collections%20(Iterable)/screenshots/Screenshot_84.png)
+
+### Problem 6
+- Code problem 6
+[Maximum sum sub array of size k.java](https://github.com/RahmatSetia/AMARTHA/blob/master/src/main/java/com/alta/training/section_6_collection/problem_6_maximumSumSubarrayofSizeK.java)
+- Screenshots
+![This is an image](https://github.com/RahmatSetia/AMARTHA/blob/master/6_Collections%20(Iterable)/screenshots/Screenshot_80.png)
