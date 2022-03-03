@@ -84,4 +84,4 @@ adalah sebuah Queue yang meiliki 2 ujung. (Last-In-First-Out)
 - Code problem 6
 [Maximum sum sub array of size k.java](https://github.com/RahmatSetia/AMARTHA/blob/master/src/main/java/com/alta/training/section_6_collection/problem_6_maximumSumSubarrayofSizeK.java)
 - Screenshots
-![This is an image](https://github.com/RahmatSetia/AMARTHA/blob/master/6_Collections%20(Iterable)/screenshots/Screenshot_80.png)
+![This is an image](https://github.com/RahmatSetia/AMARTHA/blob/master/6_Collections%20(Iterable)/screenshots/Screenshot_85.png)
