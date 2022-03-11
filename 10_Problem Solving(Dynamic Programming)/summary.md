@@ -41,13 +41,13 @@ tabel terlebih dahulu dari resourch yang sudah ada. Tabulation sebenernya kebali
 
 ## Task 1
 ### Fibonacci Number Top-down
-![This is an image](https://github.com/RahmatSetia/AMARTHA/blob/master/10_Problem%20Solving(Dynamic%20Programming)/screenshots/Screenshot_97.png)
+![This is an image](https://github.com/RahmatSetia/AMARTHA/blob/master/10_Problem%20Solving(Dynamic%20Programming)/screenshot/Screenshot_97.png)
 ## Task 2
 ### Fibonacci Number Bottom-up
-![This is an image](https://github.com/RahmatSetia/AMARTHA/blob/master/10_Problem%20Solving(Dynamic%20Programming)/screenshots/Screenshot_98.png)
+![This is an image](https://github.com/RahmatSetia/AMARTHA/blob/master/10_Problem%20Solving(Dynamic%20Programming)/screenshot/Screenshot_98.png)
 ## Task 3
 ### Frog
 ![This is an image]()
 ## Task 4
 ### Roman Numerals
-![This is an image](https://github.com/RahmatSetia/AMARTHA/blob/master/10_Problem%20Solving(Dynamic%20Programming)/screenshots/Screenshot_98.png)
+![This is an image](https://github.com/RahmatSetia/AMARTHA/blob/master/10_Problem%20Solving(Dynamic%20Programming)/screenshot/Screenshot_99.png)
