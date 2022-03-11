@@ -46,4 +46,4 @@ ketika menyelesaikan sebuah masalah kita mencari nilai optimal. biasanya diginak
 ![This is an image]()
 ## Task 4
 ### Binary search
-![This is an image](https://github.com/RahmatSetia/AMARTHA/blob/master/9_Problem%20Solving(BruteForce)/screenshots/Screenshot_96.png)
+![This is an image](https://github.com/RahmatSetia/AMARTHA/blob/master/9_Problem%20Solving(BruteForce)/screenshot/Screenshot_96.png)
