@@ -14,7 +14,7 @@ public class problem4_binarySearchAlgorithm {
             if ( arr[mid] < key ){
                 first = mid + 1;
             }else if ( arr[mid] == key ){
-                System.out.println("Element is found at index: " + mid);
+                System.out.println(mid);
                 break;
             }else{
                 last = mid - 1;
@@ -22,7 +22,7 @@ public class problem4_binarySearchAlgorithm {
             mid = (first + last)/2;
         }
         if ( first > last ){
-            System.out.println("Element is not found!");
+            System.out.println(-1);
         }
     }
 }

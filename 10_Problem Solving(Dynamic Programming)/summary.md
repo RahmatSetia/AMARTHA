@@ -30,24 +30,24 @@ tabel terlebih dahulu dari resourch yang sudah ada. Tabulation sebenernya kebali
 
 ## Code
 ### link tugas praktek :
-[1_fibonacciNumberTopDown.java]().
+[1_fibonacciNumberTopDown.java](https://github.com/RahmatSetia/AMARTHA/blob/master/src/main/java/com/alta/training/section_10_dynamicProgramming/Problem1_fibonacciNumberTopDown.java).
 
-[2_fibonacciNumberBottomUp.java]().
+[2_fibonacciNumberBottomUp.java](https://github.com/RahmatSetia/AMARTHA/blob/master/src/main/java/com/alta/training/section_10_dynamicProgramming/Problem2_fibonacciNumberBottomUp.java).
 
-[3_Frog.java]().
+[3_Frog.java](https://github.com/RahmatSetia/AMARTHA/blob/master/src/main/java/com/alta/training/section_10_dynamicProgramming/Problem3_Frog.java).
 
-[4_romanNumerals.java]().
+[4_romanNumerals.java](https://github.com/RahmatSetia/AMARTHA/blob/master/src/main/java/com/alta/training/section_10_dynamicProgramming/Problem4_RomanNumerals.java).
 
 
 ## Task 1
 ### Fibonacci Number Top-down
-![This is an image]()
+![This is an image](https://github.com/RahmatSetia/AMARTHA/blob/master/10_Problem%20Solving(Dynamic%20Programming)/screenshots/Screenshot_97.png)
 ## Task 2
 ### Fibonacci Number Bottom-up
-![This is an image]()
+![This is an image](https://github.com/RahmatSetia/AMARTHA/blob/master/10_Problem%20Solving(Dynamic%20Programming)/screenshots/Screenshot_98.png)
 ## Task 3
 ### Frog
 ![This is an image]()
 ## Task 4
 ### Roman Numerals
-![This is an image]()
+![This is an image](https://github.com/RahmatSetia/AMARTHA/blob/master/10_Problem%20Solving(Dynamic%20Programming)/screenshots/Screenshot_98.png)

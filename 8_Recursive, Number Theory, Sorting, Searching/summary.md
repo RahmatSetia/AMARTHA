@@ -27,22 +27,22 @@ adalah proses menyususn data sesuai urutannya. biasanya diurutkan sesuai dengan 
 
 ## Code
 ### link tugas praktek :
-[task1.java]().
+[task1.java](https://github.com/RahmatSetia/AMARTHA/blob/master/src/main/java/com/alta/training/section_8_RecursiveNumberTheorySortingSearching/problem_1_primaKeX.java).
 
-[task2.java]().
+[task2.java](https://github.com/RahmatSetia/AMARTHA/blob/master/src/main/java/com/alta/training/section_8_RecursiveNumberTheorySortingSearching/problem_2_FibonacciRecursive.java).
 
-[task3.java]().
+[task3.java](https://github.com/RahmatSetia/AMARTHA/blob/master/src/main/java/com/alta/training/section_8_RecursiveNumberTheorySortingSearching/problem_3_findMinMaxNumber.java).
 
-[task4.java]().
+[task4.java](https://github.com/RahmatSetia/AMARTHA/blob/master/src/main/java/com/alta/training/section_8_RecursiveNumberTheorySortingSearching/problem_4_maximumBuyProduct.java).
 
-[task5.java]().
+[task5.java](https://github.com/RahmatSetia/AMARTHA/blob/master/src/main/java/com/alta/training/section_8_RecursiveNumberTheorySortingSearching/problem_5_mostAppearItems.java).
 
 ## Task 1
 ### Prima ke x
 ![This is an image]()
 ## Task 2
 ### Fibonacci recursion
-![This is an image]()
+![This is an image](https://github.com/RahmatSetia/AMARTHA/blob/master/8_Recursive%2C%20Number%20Theory%2C%20Sorting%2C%20Searching/screenshots/Screenshot_95.png)
 ## Task 3
 ### find min and max number
 ![This is an image]()

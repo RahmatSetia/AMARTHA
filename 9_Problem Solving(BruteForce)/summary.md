@@ -27,28 +27,23 @@ ketika menyelesaikan sebuah masalah kita mencari nilai optimal. biasanya diginak
 
 ## Code
 ### link tugas praktek :
-[task1.java](link github).
+[task1.java](https://github.com/RahmatSetia/AMARTHA/blob/master/src/main/java/com/alta/training/section_9_ProblemSolving/problem1_simpleEquations.java).
 
-[task2.java]().
+[task2.java](https://github.com/RahmatSetia/AMARTHA/blob/master/src/main/java/com/alta/training/section_9_ProblemSolving/problem2_moneyChange.java).
 
-[task3.java]().
+[task3.java](https://github.com/RahmatSetia/AMARTHA/blob/master/src/main/java/com/alta/training/section_9_ProblemSolving/problem3_dragonOfLoowater.java).
 
-[task4.java]().
-
-[task5.java]().
+[task4.java](https://github.com/RahmatSetia/AMARTHA/blob/master/src/main/java/com/alta/training/section_9_ProblemSolving/problem4_binarySearchAlgorithm.java).
 
 ## Task 1
-### Money Change
+### Simple equator
 ![This is an image]()
 ## Task 2
-### Binary Search Algorithm
+### Money Change
 ![This is an image]()
 ## Task 3
-### Fibonacci Top Down
+### Dragon of loowater
 ![This is an image]()
 ## Task 4
-### Fibonacci number button
-![This is an image]()
-## Task 5
-### Frog
-![This is an image]()
+### Binary search
+![This is an image](https://github.com/RahmatSetia/AMARTHA/blob/master/9_Problem%20Solving(BruteForce)/screenshots/Screenshot_96.png)
