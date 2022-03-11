@@ -1,0 +1,7 @@
+Materi ini mempelajari :
+1. Apa itu pradigma problem solving
+2. Brute Force
+3. Divide & Conquer
+4. Greedy
+
+mengerjakan tugas tentang Brute force, Greedy dan Divide and Conquer.

@@ -1,0 +1,7 @@
+Mempelajari :
+1. Recursive
+2. Number Theory
+3. Sorting
+4. Searching
+
+mengerjakan tugas tentang recursive, Number theory

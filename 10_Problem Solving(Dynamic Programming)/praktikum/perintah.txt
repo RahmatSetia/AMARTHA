@@ -1,0 +1,11 @@
+Materi ini mempelajari :
+1. Dynamic programming
+2. Brute Force
+3. Divide & Conquer
+4. Greedy
+
+mengerjakan task tentang dynamic programming seperti :
+- fibonacci number top down
+- fibonacci number buttom up
+- frog, dan
+- Roman to numerals.

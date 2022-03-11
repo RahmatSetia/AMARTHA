@@ -1,0 +1,10 @@
+Mempelajari :
+- Map
+- Jenis jenis Map
+- Hashmap
+- WeakHashmap
+- IdentityHashmap
+- LinkedHashmap
+- ImmutableMap
+- SortedMap
+- NavigableMap
