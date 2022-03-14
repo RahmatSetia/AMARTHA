@@ -46,10 +46,19 @@ Method dengan nama yang sama tetapi output berbeda. satu method bisa di pakai be
 
 ## Task
 ### Challenge 1. Enkapsulation
-[challenge1.java]()
+[challenge1.java](https://github.com/RahmatSetia/AMARTHA/blob/master/src/main/java/com/alta/training/section_11_12_OOP/challenge1/Main.java)
 #### screenshot
-![This is an image](https://github.com/RahmatSetia/AMARTHA/blob/master/9_Problem%20Solving(BruteForce)/screenshot/Screenshot_96.png)
+![This is an image](https://github.com/RahmatSetia/AMARTHA/blob/master/11_12_Generic%20dan%20OOP/screenshot/Screenshot_107.png)
+
 ### Challenge 2. Data Abstraktion
+[challenge2.java](https://github.com/RahmatSetia/AMARTHA/blob/master/src/main/java/com/alta/training/section_11_12_OOP/challenge2/Main.java)
+#### screenshot
+![This is an image](https://github.com/RahmatSetia/AMARTHA/blob/master/11_12_Generic%20dan%20OOP/screenshot/Screenshot_108.png)
+
 ### Challenge 3. Inheritance dan Polymorphism (Vehicles)
+[challenge3.java](https://github.com/RahmatSetia/AMARTHA/blob/master/src/main/java/com/alta/training/section_11_12_OOP/challenge3/Main.java)
+#### screenshot
+![This is an image](https://github.com/RahmatSetia/AMARTHA/blob/master/11_12_Generic%20dan%20OOP/screenshot/Screenshot_109.png)
+
 ### Challenge 4. Inheritance dan Polymorphism (Animasls)
 ### Challenge 5. Tebak kandang
