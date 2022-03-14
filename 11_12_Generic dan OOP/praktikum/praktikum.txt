@@ -1,0 +1,7 @@
+Section 11 dan 12 tentang OOP
+mempelajari :
+1. OOP
+2. Enkapsulation
+3. Data abstraction
+4. Inheritance
+5. polymorphism
