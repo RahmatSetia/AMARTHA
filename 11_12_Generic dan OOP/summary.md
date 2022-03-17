@@ -1,4 +1,4 @@
-# (11) Generic dan OOP
+# (11 dan 12) Generic dan OOP
 ## Resume
 Materi ini mempelajari
 1. OOP
