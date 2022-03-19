@@ -14,7 +14,7 @@ public class Cars extends Vehicle implements identifyMyself{
         else return "Bensin";
     }
 
-    @Override
+    //@Override
     public void identify_myself() {
         System.out.println("saya adalah : " + getName() + ", status mesinku : " + getWith_enggine() + ", aku memiliki " + wheel_Count() + " roda, tipe mesinku : " + engine_Type());
     }
