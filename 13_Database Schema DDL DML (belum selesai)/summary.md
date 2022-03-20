@@ -59,7 +59,7 @@ BETWEEN 1 AND 3";).
 
 ##Task
 ###part 1 schema database
-![This is an image]()
+![This is an image](https://github.com/RahmatSetia/AMARTHA/blob/master/13_Database%20Schema%20DDL%20DML%20(belum%20selesai)/screecshot/Screenshot_148.png)
 ### part 2 membuat databse pada schema yang telah dibuat.
 ![This is an image]()
 
