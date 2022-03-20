@@ -4,7 +4,7 @@ materi ini mempelajari :
 1. Schema Database
 2. Databae Realationship
 3. RDBMS
-4. saf
+4. Jenis perintash SQL
 5. sf
 6. af
 
@@ -57,6 +57,11 @@ BETWEEN 1 AND 3";).
 ####DCL Data Control Language
 #### DTL Data Transaction Language
 
+##Task
+###part 1 schema database
+![This is an image]()
+### part 2 membuat databse pada schema yang telah dibuat.
+![This is an image]()
 
 
 

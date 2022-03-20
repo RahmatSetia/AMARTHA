@@ -1,0 +1,21 @@
+Dalam materi ini mempelajari :
+1. Schema Database
+    - model
+    - tipe data
+2. Databae Realationship
+    - one to many
+    - one to one
+    - many to many
+3. RDBMS
+    - SQL
+4. Jenis perintah SQL
+    - DDL (data definition language)
+    - DML (data manipulation language)
+    - DCL (data control language)
+    - DTL (data transaction language)
+
+TASK
+1. membuat schema database. (sudah saya ertakan gambar di summary)
+2. melakukan DDL pada schema yang telah dibuat.
+
+
