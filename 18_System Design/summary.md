@@ -122,7 +122,13 @@ CREATE ata UPDATE akan lama, karena akan melakukan re-index lagi.
 
 ##TASK
 ### Problem 1 (belum selesai)
-![This is an image](https://github.com/RahmatSetia/AMARTHA/blob/master/18_System%20Design/screenshots/problem1.png)
+- ERD
+
+![This is an image](https://github.com/RahmatSetia/AMARTHA/blob/master/18_System%20Design/screenshots/problem1_ERD.png)
+
+- Use Case
+
+![This is an image](https://github.com/RahmatSetia/AMARTHA/blob/master/18_System%20Design/screenshots/problem1_useCase.png)
 ### Problem 2 (belum selesai)
 ![This is an image](https://github.com/RahmatSetia/AMARTHA/blob/master/18_System%20Design/screenshots/problem2.png)
 z
