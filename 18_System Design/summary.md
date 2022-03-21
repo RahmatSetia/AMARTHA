@@ -121,7 +121,8 @@ tetapi ketika dilakukan indexing mencari data di index nya, time complexitinya m
 CREATE ata UPDATE akan lama, karena akan melakukan re-index lagi.
 
 ##TASK
-### Problem 1
-![This is an image]()
-### Problem 2
-![This is an image]()
+### Problem 1 (belum selesai)
+![This is an image](https://github.com/RahmatSetia/AMARTHA/blob/master/18_System%20Design/screenshots/problem1.png)
+### Problem 2 (belum selesai)
+![This is an image](https://github.com/RahmatSetia/AMARTHA/blob/master/18_System%20Design/screenshots/problem2.png)
+z
