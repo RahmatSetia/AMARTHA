@@ -1,0 +1,14 @@
+Dalam materi ini mempelajari :
+1. Diagram
+2. DistributedSystem
+3. Job Queue dan Microservices
+4. SQL dan No SQL
+5. Cache dan Indexing
+
+praktikum membuat ERD, USE CASE diagram.
+membuat tabel dengan macam-macam query dengan SQL, Redis, Neo4J, dan Cassandra.
+SQL         : SELECT * FROM users;
+Redis
+-
+Neo4J       :
+Cassandra   :
