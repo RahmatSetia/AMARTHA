@@ -9,6 +9,20 @@ praktikum membuat ERD, USE CASE diagram.
 membuat tabel dengan macam-macam query dengan SQL, Redis, Neo4J, dan Cassandra.
 SQL         : SELECT * FROM users;
 Redis
--
-Neo4J       :
+    Menambahkan data
+    - SADD users 01
+    - SADD users 02
+    - SADD users 03
+    Menampilkan data
+    = SMEMBERS users
+Neo4J
+    Membuat Node
+    (users)
+    (users:Users)
+    (users:Users {id:01}, {note_id: 001})
+
+    Retrive atau nmenampilkan data
+    MATCH (users)
+    WHERE users.id=01
+    RETURN users
 Cassandra   :
