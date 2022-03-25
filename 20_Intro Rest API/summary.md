@@ -107,5 +107,16 @@ sebuah untuk emebuat server API dan mengcomsume API. banyak krguanaan, seperti :
 - decode JSON to object struct
 - decode JSON to map[strings] interface{} dan interface{}
 - decode array JSON to array Object
-- Encode object to 
-- 
+- Encode object to JSON strings.
+
+##Task
+1. Target API 1
+   1. https://newsapi.org/
+   2. 
+
+2. Target API 2
+   https://swapi.dev/
+
+3. Target API 3
+- api documentation
+- api server

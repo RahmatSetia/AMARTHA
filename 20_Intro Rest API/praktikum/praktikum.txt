@@ -1,0 +1,11 @@
+percobaan API
+
+1. Target API 1
+https://newsapi.org/
+
+2. Target API 2
+https://swapi.dev/
+
+3. Target API 3
+- api documentation
+- api server
