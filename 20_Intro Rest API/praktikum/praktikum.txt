@@ -9,3 +9,7 @@ https://swapi.dev/
 3. Target API 3
 - api documentation
 - api server
+
+Paktikum sudah saya upload di summary.
+
+https://github.com/RahmatSetia/AMARTHA/blob/master/20_Intro%20Rest%20API/summary.md
