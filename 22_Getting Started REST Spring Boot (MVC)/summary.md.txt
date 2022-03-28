@@ -1,0 +1,6 @@
+praktikum springboot dengan database.
+1. Get
+    - Get all
+    - Get by id
+2. Post
+3. Delete
