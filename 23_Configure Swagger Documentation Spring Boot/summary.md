@@ -22,3 +22,22 @@ Standar membuat API agar mudah untuk digunakan oleh orang lain.
 
 ### Swager API Documentation
 ### Java spring with swager
+
+##Task
+Praktikum section 23. Rest API ter-integrasi dengan swagger :
+
+Membuat aplikasi CRUD
+saya membuat table "Products" dengan :
+- kolom id (Long, auto Increament)
+- kolom name (String)
+- kolom description (String)
+- kolom stock (Integer)
+- kolom price (Integer)
+
+Kemudian saya integrasikan dengan swagger agar mudah di gunakan oleh anak front-end.
+berikut link gambar hasil running di laptop saya :
+- Create (Post)     : ![link.png](https://github.com/RahmatSetia/AMARTHA/blob/master/23_Configure%20Swagger%20Documentation%20Spring%20Boot/screenshots/post.png)
+- Read (Get)        : ![link.png](https://github.com/RahmatSetia/AMARTHA/blob/master/23_Configure%20Swagger%20Documentation%20Spring%20Boot/screenshots/getAll.png)
+- Read (Get by id)  : ![link.png](https://github.com/RahmatSetia/AMARTHA/blob/master/23_Configure%20Swagger%20Documentation%20Spring%20Boot/screenshots/getById.png)
+- Update (Put)      : ![link.png](https://github.com/RahmatSetia/AMARTHA/blob/master/23_Configure%20Swagger%20Documentation%20Spring%20Boot/screenshots/put.png)
+- Delete (Delete)   : ![link.png](https://github.com/RahmatSetia/AMARTHA/blob/master/23_Configure%20Swagger%20Documentation%20Spring%20Boot/screenshots/delete.png)
