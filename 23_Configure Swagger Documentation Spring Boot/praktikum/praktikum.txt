@@ -1,0 +1,16 @@
+Praktikum section 23. Rest API ter-integrasi dengan swagger :
+
+Membuat aplikasi CRUD
+saya membuat table "Products" dengan :
+- kolom id (Long, auto Increament)
+- kolom name (String)
+- kolom description (String)
+- kolom stock (Integer)
+- kolom price (Integer)
+
+Kemudian saya integrasikan dengan swagger agar mudah di gunakan oleh anak front-end.
+berikut link gambar hasil running di laptop saya :
+- Create (Post)     :
+- Read (Get)        :
+- Update (Put)      :
+- Delete (Delete)   :

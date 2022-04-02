@@ -17,8 +17,8 @@ disini kita akan menggunakan swager, karena tampilannya lebih mudah di baca.
 
 kanaoa menggunakan swager ? karena Open API spesification, Opensource, digunakan oleh banyak perusahaan, dll.
 
-### Open API
-Standar membuat API agar mudah untuk digunakan oleh sipa saja.
+### Open API spesification definition
+Standar membuat API agar mudah untuk digunakan oleh orang lain.
 
 ### Swager API Documentation
 ### Java spring with swager
