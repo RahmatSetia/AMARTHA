@@ -2,8 +2,8 @@
 ## Resume
 belum me-resume materi, sedang mengejar task yang tertinggal
 
-##Task
-![project](https://github.com/RahmatSetia/java_rahmat-setiawan)
+## Task
+https://github.com/RahmatSetia/java_rahmat-setiawan
 
 Challenge 1
 - categories ke products relasinya (one to many)
