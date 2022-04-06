@@ -1,0 +1,21 @@
+Pada praktikum section 25 ini, meng-implementasikan relational 1o1, 1oMany, dan ManyoMany.
+1. Challenge 1.
+    desediakan design databse table yang terdiri dari :
+    - tabel categories
+    - tabel products
+    - tabel stocks
+    - tabel brands
+    kemudian konversi kedalam bentuk JPA.
+    Relasinya :
+    - categories ke products relasinya (one to many)
+    - brands ke products relasinya (one to many)
+    - stocks ke products relasinya (one to one)
+
+    berikut link project di github :
+    https://github.com/RahmatSetia/java_rahmat-setiawan
+2. Challenge 2.
+    melakukan beberapa query dengan JPa :
+    - Get all products with Category
+    - Paginate products using pageable
+    - Sort products by Categories
+    - Search product by name
