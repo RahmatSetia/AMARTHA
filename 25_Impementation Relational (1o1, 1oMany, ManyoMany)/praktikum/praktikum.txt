@@ -8,14 +8,18 @@ Pada praktikum section 25 ini, meng-implementasikan relational 1o1, 1oMany, dan 
     kemudian konversi kedalam bentuk JPA.
     Relasinya :
     - categories ke products relasinya (one to many)
+    https://github.com/RahmatSetia/AMARTHA/blob/master/25_Impementation%20Relational%20(1o1%2C%201oMany%2C%20ManyoMany)/screenshots/oneToMany_Categories.png
     - brands ke products relasinya (one to many)
+    https://github.com/RahmatSetia/AMARTHA/blob/master/25_Impementation%20Relational%20(1o1%2C%201oMany%2C%20ManyoMany)/screenshots/oneToMany_Brands.png
     - stocks ke products relasinya (one to one)
+    https://github.com/RahmatSetia/AMARTHA/blob/master/25_Impementation%20Relational%20(1o1%2C%201oMany%2C%20ManyoMany)/screenshots/oneToOne_Stocks.png
 
     berikut link project di github :
     https://github.com/RahmatSetia/java_rahmat-setiawan
 2. Challenge 2.
     melakukan beberapa query dengan JPa :
     - Get all products with Category
+    https://github.com/RahmatSetia/AMARTHA/blob/master/25_Impementation%20Relational%20(1o1%2C%201oMany%2C%20ManyoMany)/screenshots/getProductWithCategory.png
     - Paginate products using pageable
     - Sort products by Categories
     - Search product by name
