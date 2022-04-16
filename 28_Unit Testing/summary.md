@@ -27,4 +27,4 @@ dengan desain.
 
 ## Task
 Melakukan unit testing minimal 3.
-![screnshot]()
+![screnshot](https://github.com/RahmatSetia/AMARTHA/blob/master/28_Unit%20Testing/screnshoot/ss_UnitTesting.png)
