@@ -1,0 +1,2 @@
+dalam praktilim kali ini saya mencoba unit testing pada Entity Products.
+yang saya uji kali ini hanya ada 3. yaitu :getAllProduct,getProductById, dan createProduct.
