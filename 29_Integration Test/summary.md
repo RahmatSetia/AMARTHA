@@ -25,9 +25,16 @@ mahal ketika menangani bugs tersebut atau bahkan berbahaya.
 
 ### Spring Integration test
 
-##Task
+## Task
 Melakukan Integration Test.
+test Get All Product
 ![test Get All Product](https://github.com/RahmatSetia/AMARTHA/blob/master/29_Integration%20Test/screnshots/Test_getAllProduct.png).
+
+test Post Product Without Payload
 ![test Post Product Without Payload](https://github.com/RahmatSetia/AMARTHA/blob/master/29_Integration%20Test/screnshots/test_postWithOutPayload.png).
+
+test Post Product With Payload
 ![test Post Product With Payload](https://github.com/RahmatSetia/AMARTHA/blob/master/29_Integration%20Test/screnshots/test_postWithPayload.png).
+
+test Post Product With Name
 ![test Post Product With Name](https://github.com/RahmatSetia/AMARTHA/blob/master/29_Integration%20Test/screnshots/test_productWithName.png).
