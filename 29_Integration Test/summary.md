@@ -24,3 +24,10 @@ mahal ketika menangani bugs tersebut atau bahkan berbahaya.
 ### Spring Unit test
 
 ### Spring Integration test
+
+##Task
+Melakukan Integration Test.
+![test Get All Product]().
+![test Post Product Without Payload]().
+![test Post Product With Payload]().
+![test Post Product With Name]().

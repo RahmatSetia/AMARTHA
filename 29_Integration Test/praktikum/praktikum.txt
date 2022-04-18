@@ -1,0 +1,6 @@
+pada praktikum kali ini saya sertakan pekerjaan saya di folder praktikum/src.
+pada task tersebut saya melakukan integration testing :
+- Get All Product
+- Post Without Payload
+- Post With Payload
+- Get Product with name
